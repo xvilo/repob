@@ -1,0 +1,3 @@
+[submodule "repoa"]
+	path = repoa
+	url = git@github.com:xvilo/repoa.git
